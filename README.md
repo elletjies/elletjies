@@ -1,4 +1,5 @@
-### Hi there 👋
+Angelique, PhD (Educational Psychology), is the Regional Consultant for Southern Africa at The Carpentries. Angelique aims at developing strategies and workflows to adapt The Carpentries' membership and workshop programs to function optimally in Southern Africa. In addition, the role aims to assist and advise in developing a plan to create and support a strong team of volunteer instructors across the regions.
+Find Angelique Trusler on Github and Twitter.
 
 <!--
 **elletjies/elletjies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
