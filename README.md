@@ -1,4 +1,4 @@
-Angelique, PhD (Educational Psychology), is the Regional Consultant for Southern Africa at The Carpentries. Angelique aims at developing strategies and workflows to adapt The Carpentries' membership and workshop programs to function optimally in Southern Africa. In addition, the role aims to assist and advise in developing a plan to create and support a strong team of volunteer instructors across the regions.
+Angelique, PhD (Educational Psychology), is the African Capacity Development Manager. Angelique will lead community engagement efforts to develop and support The Carpentries community in Africa, creating pathways for participation and increased communication.
 Find Angelique Trusler on Twitter (https://twitter.com/AngeliquePhd).
 
 <!--
