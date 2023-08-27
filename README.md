@@ -1,5 +1,10 @@
-Angelique, PhD (Educational Psychology), is the African Capacity Development Manager. Angelique will lead community engagement efforts to develop and support The Carpentries community in Africa, creating pathways for participation and increased communication.
-Find Angelique Trusler on Twitter (https://twitter.com/AngeliquePhd).
+Angelique Trusler, PhD (Educational Psychology), is the African Capacity Development Manager at The Carpentries and an Extraordinary Researcher at Optentia Research Unit, North-West University, Vaal Triangle Campus, South Africa. In her role at The Carpentries, Dr. Trusler is responsible for developing and implementing strategies to increase the capacity of African researchers in data science. She works with partners across Africa to deliver workshops and training programs and supports the development of a community of African data scientists.
+
+Under Dr. Trusler’s leadership, The Carpentries in Africa has grown to six member organisations, hosted more than 140 workshops, and trained 184 Carpentries instructors. Glosario, a multilingual glossary for computing and data science terms, has been translated into seven African languages (Afrikaans, Setswana, isiXhosa, isiZulu, አማርኛ, Kiswahili and Southern Sotho). Dr. Trusler also hosted a CarpentryConnect South Africa 2021 event, funded by the Code for Science and Society Event Fund, made possible by grant number GBMF8449 from the Gordon and Betty Moore Foundation. The virtual event was attended by more than 120 attendees and volunteers (i.e. trainers, instructors and helpers) from 28 countries worldwide, including 16 countries in Africa. An estimated 300GB of mobile data was provided to 71 attendees over 19 African network providers.
+
+Dr. Trusler is passionate about using data science to improve education and research, takes the initiative to grow The Carpentries in Africa, handles complex discussions and projects within the region, learns from challenges faced by community members and subsequently improves related processes. She believes everyone should have access to the skills and knowledge needed to use data effectively and is committed to working with African researchers to develop and implement strategies for teaching and learning data science and programming.
+
+
 
 <!--
 **elletjies/elletjies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
